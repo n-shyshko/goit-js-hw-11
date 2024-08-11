@@ -37,9 +37,6 @@ function getGallery(event) {
   // console.log(searchText);
 
 
-
-
-
   if (searchText === "") {
               iziToast.error({
             message:
